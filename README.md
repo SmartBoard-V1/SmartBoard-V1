@@ -10,6 +10,4 @@ For Rapid Prototyping, SmartBoard allows for the quick assembly and testing of p
 
 A prime example of SmartBoard's capabilities is its configuration for developing hardware-based audio effects and filters. This setup includes a system integrated with 8 potentiometers to control the parameters of the audio processing module, selection switches for operating modes, and stereo audio input/output with 48KHz sampling. This practical application showcases how SmartBoard can be used to experiment with and refine sophisticated audio processing techniques in a real-world context.
 
-![Audio Effects and Filters Development on SmartBoard](SmartBoardV1/media/example_audio.png)
-
 By joining the SmartBoard community, developers and educators can contribute to the platform's evolution, share their projects, and leverage a collective repository of knowledge and resources. This collaborative environment not only accelerates individual project development but also enriches the learning experience for all users.
